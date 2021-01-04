@@ -1,0 +1,16 @@
+html {
+    font-size: 10px;
+    /* background: url('./background/drum2.jpg') bottom center; */
+    background-color: rgb(3, 209, 245);
+    background-size: cover;
+}
+  
+body,html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.clock{
+    
+}
